@@ -7,7 +7,9 @@ This repository contains my solutions for the Algorithms & Problem-Solving – L
 The main objective of this course is to further strengthen analytical thinking and clean coding practices by learning how to:
 
 • Apply Clean Code concepts and structural organization on a broader scale than Level 1 (Course 4).
+
 • Utilize the Divide & Conquer approach by decomposing complex problems into smaller, reusable functions.
+
 • Build independent logic and full implementations for capstone projects prior to reviewing the instructor's solution.
 
 📊 Problems & Solutions List
