@@ -1,0 +1,9 @@
+.vs/
+x64/
+Debug/
+Release/
+C++ Course 5/
+*.exe
+*.obj
+*.user
+*.pdb
