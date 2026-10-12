@@ -75,7 +75,7 @@ Here are the capstone projects developed during the course, organized in order:
 
 | Description | Project File |
 | :--- | :--- |
-| Project 1: Rock-Paper-Scissors (My Solution) | Project1_Solution.cpp |
+| Project 1: Rock-Paper-Scissors (My Solution) | Project1_Solution1.cpp |
 | Project 1: Rock-Paper-Scissors (Instructor's Solution) | Project1_Solution2.cpp |
 | Project 2: Math Game (My Solution) | Project2_Solution1.cpp |
 | Project 2: Math Game (Instructor's Solution) | Project2_Solution2.cpp |
